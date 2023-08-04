@@ -5,6 +5,10 @@ Crypto paraları takip edebilceğiniz coin ismine göre arama, sıralama yapabil
 
 Projeyi React.JS ile geliştirdim
 
+# Live Demo
+
+Projeyi canlı olarak görmek için : ibulutx.github.io/crypto-tracker/
+
 
 # Getting Started with Create React App
 
