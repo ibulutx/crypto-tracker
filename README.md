@@ -1,3 +1,11 @@
+
+# Crypto Tracker With React.JS
+
+Crypto paraları takip edebilceğiniz coin ismine göre arama, sıralama yapabileceğiniz bir website. 
+
+Projeyi React.JS ile geliştirdim
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
